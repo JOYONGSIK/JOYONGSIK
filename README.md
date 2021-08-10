@@ -22,7 +22,7 @@
 - (2021.04 ~ 현재) LG전자 프로젝트 ⚡
 - (2021.05 ~ 2021.08) 특허 유니버시아드 대회 ⚡
 - (2021.07 ~ 2021.09) 빅콘테스트 퓨처스리그 대회 (TACTICS_Lab Team) ⚡
-
+- (2021.08 ~ 현재) Google Developers Machine Learning Bootcamp ⚡
 ### 기타 활동
 
 - (2020.12 ~ 2021.02) Python Django & Front-end Project 
