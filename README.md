@@ -1,7 +1,7 @@
 ### Hi 👋
 
 - 📫 How to reach me : josik97@naver.com 
-- ⚡ Fun fact hobby: Music, Movie, Trip
+- ⚡ Fun fact hobby: Music, Running 🏃🏻🔥
 
 [![Yongsik's github stats](https://github-readme-stats.vercel.app/api?username=JOYONGSIK)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=josik97)](https://solved.ac/josik97) 
@@ -20,7 +20,7 @@
 - (2021.03 ~ 2021.09) 인하대학교 빅데이터 동아리 IBAS 회장단 
 - (2021.03 ~ 현재) 현대엘리베이터 프로젝트 ⚡
 - (2021.04 ~ 2021.08) LG전자 프로젝트 
-- (2021.05 ~ 2021.08) 특허 유니버시아드 대회 
+- (2021.05 ~ 현재) 특허 유니버시아드 대회 
 - (2021.07 ~ 2021.09) 빅콘테스트 퓨처스리그 대회 (TACTICS_Lab Team) ⚡
 - (2021.08 ~ 현재) Google Developers Machine Learning Bootcamp ⚡
 ### 기타 활동
