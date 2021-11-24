@@ -7,7 +7,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=josik97)](https://solved.ac/josik97) 
 ### 학력
 
-- 인하대학교 산업경영공학과 학사/석사 
+- 인하대학교 산업경영공학과 학사
 - 인하대학교 소프트웨어융합공학 연계전공
 
 ### 활동 (최근)
