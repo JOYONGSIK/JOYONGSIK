@@ -4,7 +4,6 @@
 - ⚡ Fun fact hobby: Music, Running 🏃🏻🔥
 
 [![Yongsik's github stats](https://github-readme-stats.vercel.app/api?username=JOYONGSIK)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=josik97)](https://solved.ac/josik97) 
 ### 학력
 
 - 인하대학교 산업경영공학과 학사
