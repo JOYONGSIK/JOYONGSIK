@@ -2,6 +2,7 @@
 
 - 📫 How to reach me : josik97@naver.com
 - 📫 LinkedIn : https://www.linkedin.com/in/yongsik-jo-9ba912220/
+- 📫 RocketPunch : https://www.rocketpunch.com/@yongsikjo/
 - ⚡ Fun fact hobby: Music, Running 🏃🏻🔥
 
 [![Yongsik's github stats](https://github-readme-stats.vercel.app/api?username=JOYONGSIK)](https://github.com/anuraghazra/github-readme-stats)
