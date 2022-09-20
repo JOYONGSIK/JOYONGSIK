@@ -5,7 +5,8 @@
 - 💻 LinkedIn : https://www.linkedin.com/in/yongsik-jo-9ba912220/
 - ⚡ Fun fact hobby: Music, Running 🏃🏻🔥
 
-[![Yongsik's github stats](https://github-readme-stats.vercel.app/api?username=JOYONGSIK)](https://github.com/anuraghazra/github-readme-stats)
+[![Yongsik's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOYONGSIK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 학력
 
 - 인하대학교 산업경영공학과 / 소프트웨어융합공학 학사
