@@ -13,7 +13,7 @@
 
 
 ### Work 
-- (2022.05 ~ 현재) Insighter Data Scientist (머신러닝/딥러닝 모형 개발)
+- (2022.05 ~ 2022.11) Insighter Data Scientist (머신러닝/딥러닝 모형 개발)
 
 ### 활동 (최근)
 
